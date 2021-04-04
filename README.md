@@ -1,4 +1,4 @@
-#Resistor Substitution Board
+# Resistor Substitution Board
 
 This repo contains all necessary files to get and change Resistor Substitution Board in KiCad.
 
